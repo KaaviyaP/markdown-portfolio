@@ -1,21 +1,12 @@
----
-layout: default
----
+* Item 1
 
-{% include 01-name.md %}
+* Item 2
 
-<br>
+  * Item 2a
 
-{% include 02-image.md %}
+  * Item 2b
 
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+Item 1
+Item 2
+Item 2a
+Item 2b
